@@ -13,7 +13,7 @@ import javax.swing.SwingUtilities;
 import pelituotanto.Interface;
 
 /**
- *asd
+ * asdf
  * @author s1200478
  */
 
