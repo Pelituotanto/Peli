@@ -6,7 +6,7 @@ import wildwestshootout.level.Level;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public abstract class Entity {
     

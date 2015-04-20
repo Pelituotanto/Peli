@@ -2,7 +2,7 @@ package wildwestshootout.level;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class TileCoordinate {
 

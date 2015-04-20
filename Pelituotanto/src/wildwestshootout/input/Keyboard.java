@@ -5,7 +5,7 @@ import java.awt.event.KeyListener;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class Keyboard implements KeyListener {
 

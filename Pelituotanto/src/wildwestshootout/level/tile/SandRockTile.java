@@ -5,7 +5,7 @@ import wildwestshootout.graphics.Sprite;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class SandRockTile extends Tile{
     

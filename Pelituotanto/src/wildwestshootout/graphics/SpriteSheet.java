@@ -8,7 +8,7 @@ import javax.imageio.ImageIO;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class SpriteSheet {
 

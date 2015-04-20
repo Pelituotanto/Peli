@@ -3,7 +3,7 @@ package wildwestshootout.options;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class Options {
     

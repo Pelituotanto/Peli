@@ -5,7 +5,7 @@ import wildwestshootout.level.Level;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class ParticleSpawner extends Spawner {
 

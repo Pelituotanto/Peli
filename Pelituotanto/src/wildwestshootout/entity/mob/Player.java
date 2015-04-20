@@ -12,7 +12,7 @@ import wildwestshootout.input.Mouse;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class Player extends Mob {
 

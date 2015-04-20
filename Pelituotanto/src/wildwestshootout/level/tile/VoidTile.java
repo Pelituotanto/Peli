@@ -5,7 +5,7 @@ import wildwestshootout.graphics.Sprite;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 class VoidTile extends Tile {
 

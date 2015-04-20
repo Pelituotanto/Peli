@@ -18,7 +18,7 @@ import wildwestshootout.level.TileCoordinate;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class Game extends Canvas implements Runnable {
     private static final long serialVersionUID = 1L;

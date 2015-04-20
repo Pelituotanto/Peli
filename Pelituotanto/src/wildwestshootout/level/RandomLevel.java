@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class RandomLevel extends Level {
 

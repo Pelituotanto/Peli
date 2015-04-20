@@ -6,7 +6,7 @@ import wildwestshootout.graphics.Sprite;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class BulletProjectile extends Projectile {
 

@@ -6,7 +6,7 @@ import wildwestshootout.level.Level;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class Spawner extends Entity {
     

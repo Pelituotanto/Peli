@@ -2,7 +2,7 @@ package wildwestshootout.graphics;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class AnimatedSprite extends Sprite {
 

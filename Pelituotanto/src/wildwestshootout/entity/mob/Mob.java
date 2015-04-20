@@ -10,7 +10,7 @@ import wildwestshootout.graphics.Sprite;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public abstract class Mob extends Entity {
 

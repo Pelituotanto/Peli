@@ -6,7 +6,7 @@ import wildwestshootout.graphics.Sprite;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class Particle extends Entity {
 

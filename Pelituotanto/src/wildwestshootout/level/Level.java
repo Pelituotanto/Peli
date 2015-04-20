@@ -10,7 +10,7 @@ import wildwestshootout.level.tile.Tile;
 
 /**
  *
- * @author Sami
+ * @author Sami nurmivaara
  */
 public class Level {
 
